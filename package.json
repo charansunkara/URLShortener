@@ -1,0 +1,23 @@
+{
+  "name": "URLShortener",
+  "version": "1.0",
+  "description": "URL Shortener App developed using Node.js",
+  "main": "URLShortener.js",
+  "scripts": {
+    "start": "node URLShortener.js"
+  },
+  "engines": {
+    "node": "0.12.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/charansunkara/URLShortener"
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "urlshortener",
+    "tinyurl"
+  ],
+  "license": "MIT"
+}
