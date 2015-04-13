@@ -1,6 +1,6 @@
 {
   "name": "URLShortener",
-  "version": "1.0",
+  "version": "0.0.1",
   "description": "URL Shortener App developed using Node.js",
   "main": "URLShortener.js",
   "scripts": {
