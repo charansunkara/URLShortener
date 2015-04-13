@@ -11,10 +11,10 @@ MySQL:
 
 Create a mysql table as follows:
 
-mysql -u root
-create database tinyurls;
-use tinyurls;
-create table urls(tiny varchar(255),original varchar(255),visitcount int,created timestamp);
+    mysql -u root
+    create database tinyurls;
+    use tinyurls;
+    create table urls(tiny varchar(255),original varchar(255),visitcount int,created timestamp);
 
 Node JS:
 
@@ -27,7 +27,7 @@ Node JS:
 3.Use the following command to install node-mysql package.
   npm install node-mysql  
 
-How to Run URLShortener:
+    How to Run URLShortener:
 
 
 1.Get the URLShortener repository.
@@ -36,11 +36,11 @@ How to Run URLShortener:
 
 3.type the following command
 
-  node URLShortener.js
+     node URLShortener.js
   
 4.Open web browser type the following in location bar 
 
-  http://localhost:2000
+    http://localhost:2000
   
 5.You can see the input box and generate tab.use them to shorten your URL
 
