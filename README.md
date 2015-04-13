@@ -1,7 +1,7 @@
 # URLShortener
 
 This app's  server built on Node Js.
-If you want to interact with this App first install the following:
+If you want to interact with this App, first install the following:
 
 Requirements:
 Install Node JS.
