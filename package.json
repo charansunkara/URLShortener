@@ -7,7 +7,8 @@
     "start": "node URLShortener.js"
   },
   "engines": {
-    "node": "0.12.x"
+    "node": "0.12.x",
+    "npm": "2.1.x"
   },
   "repository": {
     "type": "git",
