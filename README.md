@@ -18,19 +18,30 @@ create table urls(tiny varchar(255),original varchar(255),visitcount int,created
 
 Node JS:
 
-1.Install Node JS
+1.Install Node JS from https://nodejs.org/download/  
+  
+
 2.Install node-mysql package.This package is required to interact and maintain connection with mysql database;
   reference: https://github.com/felixge/node-mysql/#introduction
+  
 3.Use the following command to install node-mysql package.
   npm install node-mysql  
 
 How to Run URLShortener:
+
+
 1.Get the URLShortener repository.
+
 2.Open terminal,Move to the URLShortener folder
+
 3.type the following command
+
   node URLShortener.js
+  
 4.Open web browser type the following in location bar 
-  localhost:2000
+
+  http://localhost:2000
+  
 5.You can see the input box and generate tab.use them to shorten your URL
 
 
