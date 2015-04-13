@@ -27,11 +27,9 @@ Node JS:
 3.Use the following command to install node-mysql package.
   npm install node-mysql  
 
-    How to Run URLShortener:
-
+How to Run URLShortener:
 
 1.Get the URLShortener repository.
-
 2.Open terminal,Move to the URLShortener folder
 
 3.type the following command
